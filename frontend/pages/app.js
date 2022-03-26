@@ -14,6 +14,7 @@ const customStyles = {
     bottom: "auto",
     marginRight: "-50%",
     transform: "translate(-50%, -50%)",
+    backgroundColor: "var(--theme-ui-colors-background)",
   },
 };
 
@@ -38,7 +39,7 @@ const App = () => {
     router.push("/select");
   }
 
-  const { data } = useSWR("/api/all", fetcher);
+  const { data } = useSWR("/api/all", fetcher, { refreshInterval: 1000 });
 
   const isMedic = localStorage.getItem("role") === "medic" ? true : false;
 
@@ -72,7 +73,7 @@ const App = () => {
 
     const helplineData = await helpline.json();
 
-    if (helplineData.helpline.tel) {
+    if (helplineData.label.label == "NEGATIVE") {
       setName(helplineData.helpline.hotline);
       setTel(helplineData.helpline.phone);
 
@@ -112,7 +113,7 @@ const App = () => {
         </Text>
       </span>
       {!isMedic && (
-        <section className="bg-gray-300 p-4 rounded-lg flex flex-col items-center justify-center">
+        <Card variant="sunken">
           <Label>
             <span className="mb-2">Your request:</span>
             <Textarea
@@ -120,12 +121,13 @@ const App = () => {
               placeholder="Write a few sentences."
             />
           </Label>
-          <span className="m-4">
+          <span className="mt-4">
+            <br />
             <Button onClick={() => handleSubmit()} variant="lg">
               Submit
             </Button>
           </span>
-        </section>
+        </Card>
       )}
       {isMedic && (
         <section>
@@ -165,7 +167,7 @@ const App = () => {
         style={customStyles}
         contentLabel="Example Modal"
       >
-        <section className="flex flex-col items-center justify-center">
+        <section className="flex flex-col items-center justify-center bg-transparent">
           <Text variant="title">Please call a helpline</Text>
           <Text variant="subtitle">{name}</Text>
           <span className="m-2">
