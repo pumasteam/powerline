@@ -17,7 +17,9 @@
 
 ![powerline screenshot](https://cdn.discordapp.com/attachments/873181595752890419/957348669890383932/unknown.png)
 
-Powerline allows psychologists and psychiatrists to connect with people who need help anonymously. 
+**Suicide** is the third **leading cause of death in teenagers**. Most of the time, suicide cases are because of **untreated mental health problems**, which could've been attended successfully with medical help. However, going for personal medical help might be difficult, since it requires you to be public about suicidal thoughts, which might be **difficult for some people**.
+
+This is why we created PowerLine. **We use AI to recommend anonymous helplines based on the user's location**, and we've created an anonymous website for suicidal users to **communicate their thoughts to specialized medics** to **prevent these suicide cases**.
 
 <p align="right"><a href="#top">Back to top 🔼</a></p>
 
