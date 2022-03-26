@@ -3,7 +3,7 @@ import { Button, Text } from "theme-ui";
 
 const Home = () => {
   return (
-    <section>
+    <section className="flex flex-col">
       <Text variant="title">
         <h1 className="text-center mt-12">
           We help you find{" "}
@@ -19,6 +19,13 @@ const Home = () => {
           your home anonymously.
         </p>
       </Text>
+      <img
+        src="/landing.svg"
+        alt="Landing image"
+        height={500}
+        className="m-auto"
+      />
+      <br />
       <article className="flex items-center justify-center">
         <span className="m-2">
           <Button variant="ctaLg">
