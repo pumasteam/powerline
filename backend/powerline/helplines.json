@@ -1,0 +1,524 @@
+{
+    "data": [
+      {
+        "country": "International",
+        "phone": "https://www.befrienders.org/",
+        "hotline": "Befrienders"
+      },
+      {
+        "country": "AL",
+        "phone": "116 117",
+        "hotline": "Linja e Keshillimit per Gra dhe Vajza"
+      },
+      {
+        "country": "AG",
+        "phone": "(268) 734-4555",
+        "hotline": "Antigua and Barbuda Support And Referral Centre"
+      },
+      { "country": "AR", "phone": "102", "hotline": "Line 102" },
+      { "country": "AU", "phone": "1300 22 4636", "hotline": "Beyond Blue" },
+      {
+        "country": "AT",
+        "phone": "01-71-71-9",
+        "hotline": "24-Stunden Frauennotruf"
+      },
+      {
+        "country": "AZ",
+        "phone": "116111",
+        "hotline": "Helpline Azerbaijan"
+      },
+      {
+        "country": "BS",
+        "phone": "565 9633",
+        "hotline": "Bahamas Crisis Centre"
+      },
+      { "country": "BD", "phone": "0198 5375286", "hotline": "Kaan Pete Roi" },
+      {
+        "country": "BB",
+        "phone": "(592) 621-6111",
+        "hotline": "The Caribbean Voice"
+      },
+      {
+        "country": "BY",
+        "phone": "(017) 202\u201104\u201101",
+        "hotline": "Minsk Regional Clinical Centre 'Psychiatry-Addiction'"
+      },
+      { "country": "BE", "phone": "1813", "hotline": "Zelfmoordlijn 1813" },
+      {
+        "country": "BJ",
+        "phone": "91-47-00-00",
+        "hotline": "Centre d'Accompagnement Psycho-social et Juridique (CAPJ)"
+      },
+      { "country": "BA", "phone": "0800-300-303", "hotline": "Centar Srce" },
+      { "country": "BW", "phone": "3900 900", "hotline": "Helpline" },
+      {
+        "country": "BR",
+        "phone": "132",
+        "hotline": "132 linha de ajuda"
+      },
+      { "country": "BN", "phone": "141", "hotline": "Helpline 141" },
+      {
+        "country": "BG",
+        "phone": "02 981 76 86",
+        "hotline": "Animus Association Foundation, Sexual Assault and Self Harm Helpline"
+      },
+      {
+        "country": "BF",
+        "phone": "3535",
+        "hotline": "Centre des operations de reponses aux urgences"
+      },
+      {
+        "country": "BI",
+        "phone": "+257 69 776367",
+        "hotline": "Human Health Aid"
+      },
+      { "country": "KH", "phone": "017 222 372", "hotline": "TPO Cambodia" },
+      { "country": "CM", "phone": "1510", "hotline": "Helpline" },
+      { "country": "CA", "phone": "45645", "hotline": "Crisis Services Canada" },
+      {
+        "country": "TD",
+        "phone": "1399",
+        "hotline": "CNLS-TCHAD"
+      },
+      { "country": "CL", "phone": "1412", "hotline": "1412 SENDA" },
+      {
+        "country": "CN",
+        "phone": "+86 13636649731",
+        "hotline": "Hope Line"
+      },
+      {
+        "country": "CO",
+        "phone": "141",
+        "hotline": "141 L\u00ednea de Protecci\u00f3n a Ni\u00f1os, Ni\u00f1as y Adolescentes"
+      },
+      {
+        "country": "CG",
+        "phone": "106",
+        "hotline": "Progres Sante Sans Prix"
+      },
+      { "country": "CK", "phone": "20162", "hotline": "Te Kainga O Pa Taunga" },
+      {
+        "country": "CR",
+        "phone": "22723774",
+        "hotline": "L\u00ednea Aqu\u00ed Estoy del Colegio De Profesionales en Psicolog\u00eda"
+      },
+      {
+        "country": "UK",
+        "phone": "0844 967 4848",
+        "hotline": "No Panic"
+      },
+      { "country": "HR", "phone": "stop-nasilju.com", "hotline": "B.a.B.e" },
+      { "country": "CY", "phone": "8000 7773", "hotline": "Cyprus Samaritans" },
+      {
+        "country": "CZ",
+        "phone": "116111",
+        "hotline": "Linka Bezpe\u010d\u00ed"
+      },
+      { "country": "DK", "phone": "70 201 201", "hotline": "Livslinien" },
+      {
+        "country": "DJ",
+        "phone": "1517",
+        "hotline": "Helpline - Djibouti"
+      },
+      {
+        "country": "DM",
+        "phone": "(767)448-8280,/440-2483, (767) 611-4357",
+        "hotline": "Dominica Red Cross"
+      },
+      {
+        "country": "DO",
+        "phone": "8096363507",
+        "hotline": "L\u00ednea Familiar Contigo"
+      },
+      { "country": "EC", "phone": "(593) 99 719 6911", "hotline": "Anima EC" },
+      { "country": "EG", "phone": "16000", "hotline": "Egypt Helpline" },
+      { "country": "EE", "phone": "+372 655 8088", "hotline": "Eluliin" },
+      { "country": "SZ", "phone": "951", "hotline": "951 Helpline" },
+      {
+        "country": "ET",
+        "phone": "mail.ecfaethiopia.org",
+        "hotline": "Enhancing Child Focused Activities - (ECFA) Ethiopia"
+      },
+      {
+        "country": "FO",
+        "phone": "770 770",
+        "hotline": "Rehabilitation centre Bl\u00e1krossheimi\u00f0 Faroe Islands"
+      },
+      { "country": "FJ", "phone": "132-454", "hotline": "Lifeline Fiji" },
+      { "country": "FI", "phone": "(092) 525-0111", "hotline": "Kriisipuhelin" },
+      {
+        "country": "FR",
+        "phone": "(014) 539-4000",
+        "hotline": "Suicide \u00c9coute"
+      },
+      {
+        "country": "GM",
+        "phone": "199",
+        "hotline": "Helpline Gambia (Ministry Of Women Children And Social Welfare)"
+      },
+      {
+        "country": "GE",
+        "phone": "1-800-715-4225",
+        "hotline": "Georgia Crisis & Access Line (GCAL)"
+      },
+      {
+        "country": "DE",
+        "phone": "0800 111 0 111",
+        "hotline": "TelefonSeelsorge"
+      },
+      { "country": "GI", "phone": "58008288", "hotline": "Childline Gibraltar" },
+      {
+        "country": "GR",
+        "phone": "1056",
+        "hotline": "\u0395\u03b8\u03bd\u03b9\u03ba\u03ae \u03a4\u03b7\u03bb\u03b5\u03c6\u03c9\u03bd\u03b9\u03ba\u03ae \u0393\u03c1\u03b1\u03bc\u03bc\u03ae \u03b3\u03b9\u03b1 \u03c4\u03b1 \u03a0\u03b1\u03b9\u03b4\u03b9\u03ac SOS 1056"
+      },
+      {
+        "country": "GD",
+        "phone": "440-4787",
+        "hotline": "Psycho-Social Support Unit"
+      },
+      {
+        "country": "GU",
+        "phone": "(671) 647-8833",
+        "hotline": "Guam Behavioral Health & Wellness Center Crisis Hotline"
+      },
+      {
+        "country": "GT",
+        "phone": "22519216",
+        "hotline": "REDCAHT - Guatemala"
+      },
+      { "country": "GG", "phone": "0800 1111", "hotline": "Childline" },
+      { "country": "GY", "phone": "914", "hotline": "914 Hotline" },
+      {
+        "country": "HT",
+        "phone": "2919-9000",
+        "hotline": "Asistans Sikolojik an IJANS"
+      },
+      {
+        "country": "HN",
+        "phone": "150",
+        "hotline": "Tel\u00e9fono De La Esperanza de San Pedro Sula"
+      },
+      {
+        "country": "HK",
+        "phone": "2896 0000",
+        "hotline": "The Samaritans (Hong Kong)"
+      },
+      {
+        "country": "HU",
+        "phone": "116 111",
+        "hotline": "K\u00e9k Vonal Gyermekkr\u00edzis Alap\u00edtv\u00e1ny"
+      },
+      { "country": "IS", "phone": "1717", "hotline": "Rau\u00f0i krossinn" },
+      { "country": "IN", "phone": "078930-78930", "hotline": "1 Life" },
+      {
+        "country": "ID",
+        "phone": "+628113855472",
+        "hotline": "LISA (Love Inside Suicide Awareness) Mental Health and Suicide Prevention Helpline"
+      },
+      {
+        "country": "IR",
+        "phone": "021-44645510",
+        "hotline": "Iran Dementia and Alzheimer's Association"
+      },
+      { "country": "IE", "phone": "HELLO", "hotline": "50808" },
+      {
+        "country": "IM",
+        "phone": "0808 802 1221",
+        "hotline": "THT Direct Helpline"
+      },
+      { "country": "IL", "phone": "0529993544", "hotline": "ERAN" },
+      { "country": "IT", "phone": "19696", "hotline": "Telefono Azzurro" },
+      { "country": "CI", "phone": "116", "hotline": "Allo Enfant en Detresse" },
+      { "country": "JP", "phone": "(012) 006-1338", "hotline": "Life Link" },
+      { "country": "JE", "phone": "0800 1111", "hotline": "Childline" },
+      {
+        "country": "KZ",
+        "phone": "150",
+        "hotline": "\u0422\u0435\u043b\u0435\u0444\u043e\u043d \u0414\u043e\u0432\u0435\u0440\u0438\u044f 150"
+      },
+      { "country": "KE", "phone": "116", "hotline": "Childline" },
+      {
+        "country": "KR",
+        "phone": "1566-2525",
+        "hotline": "\uc0ac\ub791\uc758\uc804\ud654 \uc0c1\ub2f4\uc2e4 - Love Call Center"
+      },
+      { "country": "XK", "phone": "0800 12345", "hotline": "Linja e Jet\u00ebs" },
+      { "country": "LV", "phone": "06 7222922", "hotline": "SKALBES" },
+      { "country": "LB", "phone": "1564", "hotline": "Embrace LIfeline" },
+      {
+        "country": "LY",
+        "phone": "00218923978252",
+        "hotline": "\u200e\u0641\u0631\u064a\u0642 \u0627\u0644\u062f\u0639\u0645 \u0627\u0644\u0646\u0641\u0633 \u0627\u062c\u062a\u0645\u0627\u0639\u064a -\u0644\u064a\u0628\u064a\u0627 - Libyan Psychosocial Support Team"
+      },
+      { "country": "LT", "phone": "8 800 28888", "hotline": "Jaunimo linija" },
+      {
+        "country": "LU",
+        "phone": "454545",
+        "hotline": "SOS D\u00e9tresse - Mir h\u00ebllefen iwwer Telefon an online asbl"
+      },
+      {
+        "country": "MO",
+        "phone": "2871 6622",
+        "hotline": "\u535a\u5f69\u696d\u8077\u5de5\u4e4b\u5bb6\u7d9c\u5408\u670d\u52d9\u4e2d\u5fc3\u8aee\u8a62\u8f14\u5c0e\u71b1\u7dda Consultation and counseling hotline of the Comprehensive Service Center of the Gaming Industry Staff Home"
+      },
+      {
+        "country": "MG",
+        "phone": "147",
+        "hotline": "Arozaza-Child Helpline Madagascar"
+      },
+      {
+        "country": "MY",
+        "phone": "0376272929",
+        "hotline": "Befrienders Kuala Lumpur"
+      },
+      {
+        "country": "ML",
+        "phone": "80333",
+        "hotline": "EUCAP Sahel Mali (Violence against women helpline)"
+      },
+      {
+        "country": "MT",
+        "phone": "9933 9966",
+        "hotline": "Crisis Resolution Malta"
+      },
+      {
+        "country": "MU",
+        "phone": "113",
+        "hotline": "Child Development Unit (under Ministry of Gender Equality & Family Welfare)"
+      },
+      {
+        "country": "MX",
+        "phone": "+18009112000",
+        "hotline": "L\u00ednea De La Vida"
+      },
+      {
+        "country": "MD",
+        "phone": "pentruviata.md",
+        "hotline": "Linia Verde Prevenire Suicid"
+      },
+      { "country": "MC", "phone": "gouv.mc", "hotline": "Allo Parents (Monaco)" },
+      {
+        "country": "MN",
+        "phone": "1800-2000",
+        "hotline": "Mongolia Mental Health Hotline (National Center of Mental Health)"
+      },
+      {
+        "country": "ME",
+        "phone": "080-111-111",
+        "hotline": "SOS telefon Nik\u0161i\u0107"
+      },
+      { "country": "MA", "phone": "sourire2reda.com", "hotline": "Stop Silence" },
+      {
+        "country": "MZ",
+        "phone": "116",
+        "hotline": "Linha Fala Crianca Mozambique"
+      },
+      {
+        "country": "MM",
+        "phone": "syfmyanmar.org",
+        "hotline": "The Shwe Ya Min Foundation - Myanmar"
+      },
+      {
+        "country": "NA",
+        "phone": "116",
+        "hotline": "LifeLine/ChildLine Namibia"
+      },
+      { "country": "NP", "phone": "+977 9847386158", "hotline": "TPO Nepal" },
+      {
+        "country": "NL",
+        "phone": "0800-0113",
+        "hotline": "113 Zelfmoord Preventie"
+      },
+      { "country": "NC", "phone": "05 30 30", "hotline": "SOS \u00e9coute" },
+      { "country": "NZ", "phone": "1737", "hotline": "1737 Need to talk?" },
+      {
+        "country": "NE",
+        "phone": "701",
+        "hotline": "Coronavirus Helpline Niger (Counseling)"
+      },
+      {
+        "country": "NG",
+        "phone": "(809) 111-6264",
+        "hotline": "Mentally Aware Nigeria Initiative (MANI)"
+      },
+      {
+        "country": "MK",
+        "phone": "072 919 009",
+        "hotline": "\u041f\u0441\u0438\u0445\u043e\u043b\u043e\u0448\u043a\u0430 \u043f\u043e\u0434\u0434\u0440\u0448\u043a\u0430 \u0437\u0430 \u043b\u0438\u0446\u0430 \u0441\u043e \u043d\u0430\u0440\u0443\u0448\u0443\u0432\u0430\u045a\u0435 \u043d\u0430 \u0441\u043b\u0443\u0445\u043e\u0442, \u0433\u043e\u0432\u043e\u0440\u043e\u0442 \u0438 \u0433\u043b\u0430\u0441\u043e\u0442 - Psychological Support for People with Hearing, Speech and Voice Disorders"
+      },
+      { "country": "NO", "phone": "116 123", "hotline": "Hjelpetelefonen" },
+      {
+        "country": "OM",
+        "phone": "1100",
+        "hotline": "Child Protection Hotline Oman (Ministry of Social Development and Telecommunication Regulatory Authority (TRA)"
+      },
+      {
+        "country": "PK",
+        "phone": "92 0311 7786264",
+        "hotline": "Umang Pakistan"
+      },
+      {
+        "country": "PS",
+        "phone": "121",
+        "hotline": "\u062e\u0637 \u062d\u0645\u0627\u064a\u0629 \u0627\u0644\u0637\u0641\u0644 \u0627\u0644\u0641\u0644\u0633\u0637\u064a\u0646\u064a - Palestinian Child Protection Line"
+      },
+      {
+        "country": "PG",
+        "phone": "7150-8000",
+        "hotline": "1-TOK Kaunselin Helpim Lain"
+      },
+      { "country": "PY", "phone": "137", "hotline": "SOS Mujer" },
+      { "country": "PE", "phone": "113", "hotline": "Infosalud Per\u00fa" },
+      {
+        "country": "PH",
+        "phone": "+63 288937603",
+        "hotline": "In Touch Crisis Line"
+      },
+      {
+        "country": "PL",
+        "phone": "116 123",
+        "hotline": "Kryzysowy Telefon Zaufania 116 123"
+      },
+      {
+        "country": "PR",
+        "phone": "7877222977",
+        "hotline": "L\u00ednea De Orientaci\u00f3n Confidencial De La Oficina De La Procuradora De Mujeres"
+      },
+      {
+        "country": "QA",
+        "phone": "919",
+        "hotline": "Protection and Social Rehabilitation Centre (AMAN Centre)"
+      },
+      {
+        "country": "RO",
+        "phone": "(080) 080-1200",
+        "hotline": "TelVerde Antisuicid"
+      },
+      {
+        "country": "RU",
+        "phone": "8 (800) 333-44-34",
+        "hotline": "Psychological Help Hotline"
+      },
+      {
+        "country": "RW",
+        "phone": "116",
+        "hotline": "Child Helpline-World Vision Rwanda"
+      },
+      {
+        "country": "LC",
+        "phone": "203",
+        "hotline": "Saint Lucia National Health Helpline, Mental, Social and Emotional Issues"
+      },
+      {
+        "country": "VC",
+        "phone": "(592) 621-6111",
+        "hotline": "The Caribbean Voice"
+      },
+      {
+        "country": "WS",
+        "phone": "800-5433",
+        "hotline": "Faataua Le Ola (FLO) / Samoa Lifeline"
+      },
+      {
+        "country": "SA",
+        "phone": "920033360",
+        "hotline": "National Center for Mental Health Promotion"
+      },
+      {
+        "country": "SN",
+        "phone": "116",
+        "hotline": "Centre Ginddi ALLO 116-Child Helpline Senegal"
+      },
+      { "country": "RS", "phone": "0800-300-303", "hotline": "Centar SRCE" },
+      {
+        "country": "SC",
+        "phone": "4322626",
+        "hotline": "Child Helpline Seychelles"
+      },
+      {
+        "country": "SG",
+        "phone": "1800 777 5555",
+        "hotline": "Aware Women's Helpline"
+      },
+      { "country": "SK", "phone": "0800 500 333", "hotline": "IP\u010dko" },
+      { "country": "SI", "phone": "116123", "hotline": "Telefon Samarijan" },
+      {
+        "country": "SO",
+        "phone": "5555",
+        "hotline": "Ceebla Crisis Line Somalia (Women Dealing with Violence and Abuse)"
+      },
+      {
+        "country": "ZA",
+        "phone": "065 989 9238 - WhatsApp Booking",
+        "hotline": "Lifeline Johannesburg"
+      },
+      {
+        "country": "ES",
+        "phone": "900 869 947",
+        "hotline": "Centro de Atenci\u00f3n 24h"
+      },
+      { "country": "LK", "phone": "1333", "hotline": "CCCLine" },
+      {
+        "country": "SR",
+        "phone": "123",
+        "hotline": "Kinder-en Jongerentelefoon"
+      },
+      { "country": "SE", "phone": "90101", "hotline": "Mind Sjalvmordslinjen" },
+      {
+        "country": "CH",
+        "phone": "143",
+        "hotline": "Verband Tel 143 - Die Dargebotene Hand"
+      },
+      {
+        "country": "TW",
+        "phone": "1925",
+        "hotline": "1925 Suicide Prevention Hotline"
+      },
+      { "country": "TZ", "phone": "116", "hotline": "Child Helpline Tanzania" },
+      {
+        "country": "TH",
+        "phone": "02-113-6789",
+        "hotline": "Samaritans Thailand"
+      },
+      {
+        "country": "TG",
+        "phone": "80-00-95-95",
+        "hotline": "La Croix Bleue du Togo"
+      },
+      { "country": "TT", "phone": "800-4321", "hotline": "Childline" },
+      {
+        "country": "TN",
+        "phone": "1809",
+        "hotline": "Tunisia Domestic Abuse Mental Health Helpline"
+      },
+      { "country": "TR", "phone": "191", "hotline": "ALO 191" },
+      { "country": "UG", "phone": "(080) 020-0250", "hotline": "Mifumi Uganda" },
+      {
+        "country": "UA",
+        "phone": "+380503918642",
+        "hotline": "Lifeline Ukraine"
+      },
+      { "country": "AE", "phone": "8004673", "hotline": "Hope Line" },
+      { "country": "NG", "phone": "116 123", "hotline": "Samaritans" },
+      { "country": "US", "phone": "741741", "hotline": "Crisis Text Line" },
+      { "country": "UY", "phone": "0800 0767", "hotline": "Linea de Vida" },
+      {
+        "country": "VE",
+        "phone": "04241659742",
+        "hotline": "L\u00ednea Psico Apoyo"
+      },
+      {
+        "country": "VN",
+        "phone": "1900 6184",
+        "hotline": "Free Psychological Counseling Switchboard"
+      },
+      {
+        "country": "YE",
+        "phone": "136",
+        "hotline": "Family Counseling & Development Foundation Yemen"
+      },
+      { "country": "ZM", "phone": "933", "hotline": "Lifeline 933" },
+      { "country": "ZW", "phone": "116", "hotline": "Childline" }
+    ]
+  }
